@@ -1,5 +1,4 @@
-# algoGmc
-
+Just do Inspect and excecute in the console lol
  
 var sentence = "Ahla talel";
  
